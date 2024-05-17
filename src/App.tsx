@@ -14,7 +14,7 @@ function App() {
             href="https://www.artworkarchive.com/profile/amy-buchert"
             target={"_blank"}
           >
-            Portfolio and Contact
+            Portfolio
           </a>
         </li>
         <li>
@@ -25,7 +25,7 @@ function App() {
             href="https://instagram.com/amybuchert"
             target={"_blank"}
           >
-            Follow me on Instagram
+            Instagram
           </a>
         </li>
       </ul>
